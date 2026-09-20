@@ -13,7 +13,7 @@ I love sharing my knowledge, and as part of that, I’ve created **solutions to 
 
 ## 🧠 Education
 
-**Sphinx University** — * Assiut, Egypt*  
+**Sphinx University** — *Assiut, Egypt*  
 **Bachelor of Computer Science**  
 *Sep. 2024 – Jul. 2028*
 
