@@ -26,8 +26,7 @@ I love sharing my knowledge, and as part of that, I’ve created **solutions to 
 *01/2026 – 05/2026*
 
 - Led a team of 4 in building a realistic simulation of Assiut City, including road network, traffic demand, intersections, and vehicle configurations.
-- Collaborated on improving the multi-agent system.
-- Conducted rigorous testing to validate system behavior, achieving substantial reductions against a fixed-time baseline in queue length by **83.5%**, delay by **72.5%**, and waiting time by **88.5%** under multiple traffic scenarios.
+- Collaborated on improving the multi-agent system. Conducted rigorous testing to validate system behavior, achieving substantial reductions against a fixed-time baseline in queue length by **83.5%**, delay by **72.5%**, and waiting time by **88.5%** under multiple traffic scenarios.
 
 ### **Monitoring Dashboard for Assiut City**
 *Python · PyQt5 · QThread · Leaflet.js · OpenStreetMap · TraCI API*  
