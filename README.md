@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-👋 Hi, I’m **George Amgad**, a passionate ** Software Engineering student at Sphinx University**, driven by a love for **problem solving, algorithms, data structures, and building scalable systems**.
+👋 Hi, I’m **George Amgad**, a passionate **Software Engineering student at Sphinx University**, driven by a love for **problem solving, algorithms, data structures, and building scalable systems**.
 
 I’m always eager to learn, tackle complex challenges, and make an impact through **clean and efficient code**. 🚀
 
