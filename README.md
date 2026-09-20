@@ -4,7 +4,9 @@
 </h3>
 
 👋 Hi, I’m **George Amgad**, a passionate ** Software Engineering student at Sphinx University**, driven by a love for **problem solving, algorithms, data structures, and building scalable systems**.
+
 I’m always eager to learn, tackle complex challenges, and make an impact through **clean and efficient code**. 🚀
+
 I love sharing my knowledge, and as part of that, I’ve created **solutions to the Newcomers Sheets in Python and C++** to help beginners get started on their wonderful programming journey. ❤️
 
 ---
