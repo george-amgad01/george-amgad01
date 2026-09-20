@@ -3,8 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-👋 Hi, I’m **George Amgad**, a **Computer Science student at Sphinx University** with a strong foundation in **software development, algorithms, networking, and AI/ML**.  
-I enjoy solving problems, building practical systems, and exploring how **AI can be applied to real-world challenges**. My current focus is growing toward an **AI Engineer** role while continuing to strengthen my software engineering and competitive programming skills. 🚀
+👋 Hi, I’m **George Amgad**, a passionate ** Software Engineering student at Sphinx University**, driven by a love for **problem solving, algorithms, data structures, and building scalable systems**.
+I’m always eager to learn, tackle complex challenges, and make an impact through **clean and efficient code**. 🚀
+I love sharing my knowledge, and as part of that, I’ve created **solutions to the Newcomers Sheets in Python and C++** to help beginners get started on their wonderful programming journey. ❤️
 
 ---
 
