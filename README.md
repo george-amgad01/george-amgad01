@@ -76,6 +76,9 @@ Pitching **Cooperative Smart Traffic Management System Using Multi-Agent Reinfor
 <a href="https://www.linkedin.com/in/george-amgad-95660036a/" target="_blank">
   <img src="https://img.shields.io/badge/-George%20Amgad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
+<a href="https://www.youtube.com/@GeorgeAmgad-u7r" target="_blank">
+  <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/>
+</a>
 <a href="https://codeforces.com/profile/George-Amgad07" target="_blank">
   <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white"/>
 </a>
